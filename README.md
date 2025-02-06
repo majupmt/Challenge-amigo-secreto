@@ -35,7 +35,7 @@ Este é um projeto simples de *Amigo Secreto, desenvolvido utilizando **HTML, CS
  
 	1.	Clone este repositório:
 
-git clone [https://github.com/seu-usuario/amigo-secreto.git](https://github.com/majupmt/Challenge-amigo-secreto.git)
+git clone (https://github.com/majupmt/Challenge-amigo-secreto.git)
 
 
 	2.	Acesse a pasta do projeto:
