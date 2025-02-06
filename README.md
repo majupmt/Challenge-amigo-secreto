@@ -32,6 +32,7 @@ Este é um projeto simples de *Amigo Secreto, desenvolvido utilizando **HTML, CS
 
  
  ⁉ Como Usar
+ 
 	1.	Clone este repositório:
 
 git clone [https://github.com/seu-usuario/amigo-secreto.git](https://github.com/majupmt/Challenge-amigo-secreto.git)
