@@ -55,7 +55,8 @@ body {
 }
 
 .main-title {
-    font-size: 48px;
+    font-size: 38px;
+    width: 100px;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
@@ -64,15 +65,17 @@ body {
 
 .section-title {
     font-family: "Inter", serif;
-    font-size: 36px;
+    font-size: 24px;
     font-weight: 700;
     color: var(--color-primary);
     margin: 10px 0;
     text-align: center;
 }
 
+
 .input-wrapper {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     width: 100%;
     max-width: 600px;
@@ -80,7 +83,8 @@ body {
 }
 
 .input-name {
-    width: 100%;
+    width: 90%;
+    max-width: 300px;
     padding: 10px;
     border: 2px solid #000;
     border-radius: 25px 0 0 25px;
@@ -106,9 +110,9 @@ body {
 
 
 button {
-    padding: 15px 30px;
+    padding: 10px 30px;
     font-family: "Inter", sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     border: 2px solid #000;
     border-radius: 25px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
