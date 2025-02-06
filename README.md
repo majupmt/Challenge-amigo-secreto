@@ -21,11 +21,6 @@ Este é um projeto simples de *Amigo Secreto, desenvolvido utilizando **HTML, CS
 
 ![image](https://github.com/user-attachments/assets/ba5faadb-d937-4f69-90a3-8c997095ba14)
 
-## -- Tela responsiva
-
-![Responsividade](https://github.com/user-attachments/assets/0da0b885-81c4-418d-9fc3-d7169c170668)
-
-
 ## 📜 Mudanças
 - Identifiquei que conforme ia adicionando os nomes o botão de "Sortear Amigo" estava saindo da tela. Então, fiz quebrando ao lado estilizado.
 - Em uma das inspeções notei que o códgo não estava responsivo então usei Media Queries para torná-lo responsivo.
