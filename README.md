@@ -21,7 +21,7 @@ Este é um projeto simples de *Amigo Secreto, desenvolvido utilizando **HTML, CS
 
 ![image](https://github.com/user-attachments/assets/ba5faadb-d937-4f69-90a3-8c997095ba14)
 
-## -- Responsividade 
+## -- Tela responsiva
 
 ![Responsividade](https://github.com/user-attachments/assets/0da0b885-81c4-418d-9fc3-d7169c170668)
 
