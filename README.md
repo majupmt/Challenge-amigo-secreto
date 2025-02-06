@@ -40,7 +40,7 @@ git clone (https://github.com/majupmt/Challenge-amigo-secreto.git)
 
 	2.	Acesse a pasta do projeto:
 
-cd CHallenge-amigo-secreto
+cd Challenge-amigo-secreto
 
 
 	3.	Abra o arquivo index.html no navegador.
